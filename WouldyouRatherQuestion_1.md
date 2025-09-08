@@ -3,4 +3,4 @@
 ### or
 ## Use a hard-to-remember password and keep your location private
 
-###[Click me](./WouldyouRatherQuestion.md) 
+[Click me for next question](./WouldyouRatherQuestion.md) 
