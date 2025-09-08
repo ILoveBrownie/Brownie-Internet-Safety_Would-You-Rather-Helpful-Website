@@ -1,5 +1,5 @@
 # Would You Rather?
-## Use two-factor authentication for every single app
+## Free social media app that uses your data to target ads to you
 ### or
-## Change your password every 2 months
+## Pay a monthly subscription for a new social media app with fewer features but a strict "no data collection" policy
 [Click me to go back to the homepage](./index.md) 
