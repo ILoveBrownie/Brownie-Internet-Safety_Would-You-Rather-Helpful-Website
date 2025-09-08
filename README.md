@@ -7,4 +7,4 @@
 ### 2. Helpful Links To Visit
 (./posts/first_reflection.md) 
 
-Welcome to ShortiexRachel Crochet—your go-to shop for unique,
+
