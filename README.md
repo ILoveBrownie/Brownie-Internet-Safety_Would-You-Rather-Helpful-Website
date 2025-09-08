@@ -4,7 +4,7 @@
 ## Here, you have two options: 
 ### 1. Would You Rather Quiz (Internet Safety Concepts)
 
-### 2. Helpful Links To Visit
+### 2. Helpful Websites To Visit
 (./posts/first_reflection.md) 
 
 
