@@ -5,6 +5,6 @@
 ### 1. Would You Rather Quiz (Internet Safety Concepts)
 
 ### 2. Helpful Websites To Visit
-(./posts/first_reflection.md) 
+[Click me](./HelpfulWebsites.md) 
 
 
