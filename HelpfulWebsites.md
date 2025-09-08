@@ -9,6 +9,6 @@
 ### https://report.cybertip.org/ : This is a website to report child sexual exploitation. Users are allowed to chat with a member and learn to take intimate photos down.
 
 ## Serious Help : 
-### https://988lifeline.org/ : Suiside and Crisis Help
+### https://988lifeline.org/ : Suicide and Crisis Help
 
 ### 
