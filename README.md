@@ -5,5 +5,6 @@
 ### 1. Would You Rather Quiz (Internet Safety Concepts)
 
 ### 2. Helpful Links To Visit
+(./posts/first_reflection.md) 
 
 Welcome to ShortiexRachel Crochet—your go-to shop for unique,
