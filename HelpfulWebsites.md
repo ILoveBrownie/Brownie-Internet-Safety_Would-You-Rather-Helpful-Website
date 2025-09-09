@@ -10,3 +10,5 @@
 
 ## Serious Help : 
 ### [https://988lifeline.org/](https://988lifeline.org/) : Suicide and Crisis Help
+
+[Click me to go back to the homepage](./index.md) 
